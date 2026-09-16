@@ -1,0 +1,1312 @@
+[
+  {
+    "partNo": "411020086",
+    "spec": "P600*170*305 A/WA80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990263",
+    "spec": "600*170*305 TCA70KV60",
+    "manufacturer": "振宇",
+    "stock": "6",
+    "linkedStock": "",
+    "totalStock": "6",
+    "backupStock": "6",
+    "process": "30B新造外圈粗磨外径 30B大修外圈磨外径 26大修外圈磨外径"
+  },
+  {
+    "partNo": "411990320",
+    "spec": "1-125*80*50 TCA70JV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": "新造30B内圈粗磨内径"
+  },
+  {
+    "partNo": "411990277",
+    "spec": "1-600*30*305 A/WA70KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990297",
+    "spec": "600*170*305 TCA80KV60",
+    "manufacturer": "振宇",
+    "stock": "3",
+    "linkedStock": "",
+    "totalStock": "3",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990203",
+    "spec": "600*49.5*305 A/WA70KV60",
+    "manufacturer": "飞宇",
+    "stock": "10",
+    "linkedStock": "",
+    "totalStock": "10",
+    "backupStock": "12",
+    "process": "30B新造内圈粗磨滚道"
+  },
+  {
+    "partNo": "411990203",
+    "spec": "600*50*305 A/WA70KV60",
+    "manufacturer": "飞宇",
+    "stock": "1",
+    "linkedStock": "",
+    "totalStock": "1",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990202",
+    "spec": "3-300*12*75 A/WA70K60",
+    "manufacturer": "飞宇",
+    "stock": "36",
+    "linkedStock": "",
+    "totalStock": "36",
+    "backupStock": "30",
+    "process": "30B新造内圈粗磨挡边"
+  },
+  {
+    "partNo": "411990236",
+    "spec": "600*49.5*305 A/WA100KV60",
+    "manufacturer": "飞宇",
+    "stock": "1",
+    "linkedStock": "",
+    "totalStock": "1",
+    "backupStock": "2",
+    "process": "30B大修内圈终磨滚道"
+  },
+  {
+    "partNo": "411990207",
+    "spec": "600*47*305 A/WA70KV60",
+    "manufacturer": "飞宇",
+    "stock": "3",
+    "linkedStock": "",
+    "totalStock": "3",
+    "backupStock": "4",
+    "process": "26大修内圈终磨滚道"
+  },
+  {
+    "partNo": "411990207",
+    "spec": "600*47*305 A/WA100KV60",
+    "manufacturer": "飞宇",
+    "stock": "2",
+    "linkedStock": "",
+    "totalStock": "2",
+    "backupStock": "2",
+    "process": ""
+  },
+  {
+    "partNo": "411990200",
+    "spec": "3-165*63*65 A/WA100KV",
+    "manufacturer": "飞宇",
+    "stock": "64",
+    "linkedStock": "",
+    "totalStock": "64",
+    "backupStock": "80",
+    "process": "30B大修终磨两滚道 26大修终磨两滚道"
+  },
+  {
+    "partNo": "411990226",
+    "spec": "3-280*12*75 A/WA120JV60",
+    "manufacturer": "飞宇",
+    "stock": "36",
+    "linkedStock": "",
+    "totalStock": "36",
+    "backupStock": "",
+    "process": "30B大修内圈磨挡边 26大修内圈磨挡边"
+  },
+  {
+    "partNo": "411990208",
+    "spec": "610*56*304.8 A100JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "1",
+    "totalStock": "1",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990212",
+    "spec": "600*56*305 A/WA100JV60",
+    "manufacturer": "飞宇",
+    "stock": "1",
+    "linkedStock": "",
+    "totalStock": "1",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990212",
+    "spec": "600*56*305 A/WA80JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "0",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990212",
+    "spec": "600*56*305 A/WA70JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "2",
+    "totalStock": "2",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990225",
+    "spec": "125*80*50 SA70JV60",
+    "manufacturer": "双立",
+    "stock": "158",
+    "linkedStock": "",
+    "totalStock": "158",
+    "backupStock": "120",
+    "process": "30B新造内圈粗磨内径"
+  },
+  {
+    "partNo": "411990230",
+    "spec": "200*16*65 SA70HV60",
+    "manufacturer": "双立",
+    "stock": "96",
+    "linkedStock": "",
+    "totalStock": "96",
+    "backupStock": "180",
+    "process": "30B新造外圈粗磨两牙口"
+  },
+  {
+    "partNo": "411050050",
+    "spec": "110*80*50 SA70JV60",
+    "manufacturer": "双立",
+    "stock": "132",
+    "linkedStock": "",
+    "totalStock": "132",
+    "backupStock": "120",
+    "process": ""
+  },
+  {
+    "partNo": "411990231",
+    "spec": "170*16*65 SA70HV60",
+    "manufacturer": "双立",
+    "stock": "49",
+    "linkedStock": "",
+    "totalStock": "49",
+    "backupStock": "100",
+    "process": ""
+  },
+  {
+    "partNo": "411050052",
+    "spec": "600*30*305 A/SA60KV60",
+    "manufacturer": "双立",
+    "stock": "4",
+    "linkedStock": "",
+    "totalStock": "4",
+    "backupStock": "14",
+    "process": "30B新造内圈粗磨边外径"
+  },
+  {
+    "partNo": "411050019",
+    "spec": "105*71*47.5 SA80JV60",
+    "manufacturer": "鲁信",
+    "stock": "175",
+    "linkedStock": "",
+    "totalStock": "175",
+    "backupStock": "150",
+    "process": ""
+  },
+  {
+    "partNo": "411050037",
+    "spec": "AT-165*59*65 SA70JV50",
+    "manufacturer": "鲁信",
+    "stock": "90",
+    "linkedStock": "",
+    "totalStock": "90",
+    "backupStock": "150",
+    "process": "30B新造外圈粗、细磨两滚道 30B大修外圈细磨两滚道 26大修外圈细磨两滚道"
+  },
+  {
+    "partNo": "411990235",
+    "spec": "6-90*80*32 WA100PB35",
+    "manufacturer": "沈南",
+    "stock": "50",
+    "linkedStock": "",
+    "totalStock": "50",
+    "backupStock": "50",
+    "process": "新造353130B 滚柱磨加工 1.粗磨球基面"
+  },
+  {
+    "partNo": "411990130",
+    "spec": "6-90*80*32 WA280KB35",
+    "manufacturer": "沈南",
+    "stock": "100",
+    "linkedStock": "",
+    "totalStock": "100",
+    "backupStock": "50",
+    "process": "大修353130B 滚柱磨加工 1.磨球基面"
+  },
+  {
+    "partNo": "411990227",
+    "spec": "6-90*80*32 WA320KB35",
+    "manufacturer": "沈南",
+    "stock": "100",
+    "linkedStock": "",
+    "totalStock": "100",
+    "backupStock": "50",
+    "process": "大修353130B 滚柱磨加工 1.磨球基面"
+  },
+  {
+    "partNo": "411020080",
+    "spec": "600*300*305 WA80JR35",
+    "manufacturer": "沈南",
+    "stock": "6",
+    "linkedStock": "",
+    "totalStock": "6",
+    "backupStock": "5",
+    "process": "新造353130B 滚柱磨加工 1.粗磨外径1 2.粗磨外径2 3.细磨外径1 4.细磨外径2"
+  },
+  {
+    "partNo": "411990306",
+    "spec": "6-166*77*80-6*12 GNA220KB 35M/S 倾角9°",
+    "manufacturer": "沈南",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990307",
+    "spec": "6-166*77*80-6*12 GNA180KB 35M/S 倾角9°",
+    "manufacturer": "沈南",
+    "stock": "30",
+    "linkedStock": "",
+    "totalStock": "30",
+    "backupStock": "60",
+    "process": "新造353130B 滚柱磨加工 1.终磨球基面 大修353130B 滚柱磨加工 1.磨球基面"
+  },
+  {
+    "partNo": "411990069",
+    "spec": "N450*125*380 A60KB35",
+    "manufacturer": "华菱",
+    "stock": "0",
+    "linkedStock": "4",
+    "totalStock": "4",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990136",
+    "spec": "750*63*254 A80KB35",
+    "manufacturer": "华菱",
+    "stock": "7",
+    "linkedStock": "",
+    "totalStock": "7",
+    "backupStock": "",
+    "process": "30B新造外圈粗、终磨双端面 30B大修外圈磨双端面 26大修外圈磨双端面"
+  },
+  {
+    "partNo": "411990327",
+    "spec": "750*63*254 A80JB35",
+    "manufacturer": "华菱",
+    "stock": "6",
+    "linkedStock": "",
+    "totalStock": "6",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010151",
+    "spec": "600*200*305 A70JV35",
+    "manufacturer": "中坚",
+    "stock": "4",
+    "linkedStock": "",
+    "totalStock": "4",
+    "backupStock": "3",
+    "process": ""
+  },
+  {
+    "partNo": "411990084",
+    "spec": "155*12.5*65 32A100KV60 66253240312",
+    "manufacturer": "圣戈班",
+    "stock": "40",
+    "linkedStock": "",
+    "totalStock": "40",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990142",
+    "spec": "PDA255*20*22 A100KV60 66253056802",
+    "manufacturer": "圣戈班",
+    "stock": "10",
+    "linkedStock": "",
+    "totalStock": "10",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990140",
+    "spec": "610*50*304.8 A100JV60 66253270713",
+    "manufacturer": "圣戈班",
+    "stock": "2",
+    "linkedStock": "",
+    "totalStock": "2",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990141",
+    "spec": "610*46*304.8 A100JV60 66253077816",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "11",
+    "totalStock": "11",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990139",
+    "spec": "PDX150*59*65 32A100JV60 66253086375",
+    "manufacturer": "圣戈班",
+    "stock": "42",
+    "linkedStock": "",
+    "totalStock": "42",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990259",
+    "spec": "36-750*63*254 32A80LB35",
+    "manufacturer": "联瑞",
+    "stock": "3",
+    "linkedStock": "",
+    "totalStock": "3",
+    "backupStock": "4",
+    "process": "30B新造内圈粗磨双端面（小）"
+  },
+  {
+    "partNo": "411990260",
+    "spec": "36-750*63*254 32A80KB35",
+    "manufacturer": "联瑞",
+    "stock": "4",
+    "linkedStock": "",
+    "totalStock": "4",
+    "backupStock": "4",
+    "process": "30B新造内圈粗磨双端面（大）"
+  },
+  {
+    "partNo": "411990298",
+    "spec": "36-750*63*254 32A80JB35",
+    "manufacturer": "联瑞",
+    "stock": "5",
+    "linkedStock": "",
+    "totalStock": "5",
+    "backupStock": "4",
+    "process": "30B新造内圈终磨双端面"
+  },
+  {
+    "partNo": "411990257",
+    "spec": "P600*35*305 A/WA100KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990268",
+    "spec": "P600*25*305 A/WA60KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990269",
+    "spec": "P600*25*305 A/WA80KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990271",
+    "spec": "P60*40*20 A/WA80KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990270",
+    "spec": "P60*40*20 A/WA60KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990272",
+    "spec": "P110*40*32 A/WA60KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990273",
+    "spec": "P110*40*32 A/WA100KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990264",
+    "spec": "P50*30*20 A/WA60KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990265",
+    "spec": "P50*30*20 A/WA80KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990266",
+    "spec": "P60*20*20 A/WA60KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990267",
+    "spec": "P60*20*20 A/WA120KV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020100",
+    "spec": "P400*50*203 WA60JV35",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": "新造滚柱磨加工线 导轮磨"
+  },
+  {
+    "partNo": "411990276",
+    "spec": "P400*50*203 A/WA60JV35",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990304",
+    "spec": "PDX300*20*127 A/WA70JV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990305",
+    "spec": "PDX300*20*127 A/WA100JV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990315",
+    "spec": "3-170*80*65 A/WA70JV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990316",
+    "spec": "3-170*80*65 A/WA100JV60",
+    "manufacturer": "振宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020096",
+    "spec": "PD*140*8*32 WA80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990209",
+    "spec": "PDX175*65*65 A/WA100KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "58",
+    "totalStock": "58",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010143",
+    "spec": "PDA255*20*22 A100KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "15",
+    "totalStock": "15",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990249",
+    "spec": "PDX300*10*127 A/WA70JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010172",
+    "spec": "P110*17*32 A100KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010173",
+    "spec": "600*10*305 A100KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010174",
+    "spec": "75*20*20 A80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010143",
+    "spec": "PDA255*20*22 A70JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990223",
+    "spec": "PDX350*10*127 A/WA70JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990222",
+    "spec": "80*60*20 A/WA80K60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990224",
+    "spec": "120*40*32 EA120KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990211",
+    "spec": "600*30*305 A/WA70KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990229",
+    "spec": "600*23*305 A/WA80JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990232",
+    "spec": "500*10*203 EA120L60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010160",
+    "spec": "75*40*20 A60KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010161",
+    "spec": "75*40*20 A80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990248",
+    "spec": "110*80*50 A/WA70K6V60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010163",
+    "spec": "120*40*32 A60KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010170",
+    "spec": "120*40*32 A100JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010165",
+    "spec": "600*30*305 A80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010165",
+    "spec": "600*30*305 A80JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010166",
+    "spec": "600*20*305 A60KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010167",
+    "spec": "600*20*305 A100KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990245",
+    "spec": "500*12*203 A120LV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990246",
+    "spec": "500*19*203 A120LV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990234",
+    "spec": "40*20*10 A/WA80KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990193",
+    "spec": "600*56*305 A100JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990193",
+    "spec": "600*56*305 A80JV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010142",
+    "spec": "610*50*304.8 A70JV 60M/S",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010146",
+    "spec": "610*50*304.8 A100JV 60M/S",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010147",
+    "spec": "155*10*65 A/WA100KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010147",
+    "spec": "155*10*65 A/WA70KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050043",
+    "spec": "155*12*65 A/WA100KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050043",
+    "spec": "155*12*65 A/WA70KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050042",
+    "spec": "150*59*65 A/WA70KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050042",
+    "spec": "150*59*65 A/WA100KV",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010170",
+    "spec": "120*40*32 A120KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990249",
+    "spec": "PDX300*10*127 A/WA70KV60",
+    "manufacturer": "飞宇",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990247",
+    "spec": "300*25*32 GC80KV35",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010156",
+    "spec": "P80*60*20 A80KV35",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010157",
+    "spec": "B160*40*32 A80JV30",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411030038",
+    "spec": "BW125*55*32 PA46KV30",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020097",
+    "spec": "40*20*10 WA80KV60",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010155",
+    "spec": "40*20*10 A80KV60",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990233",
+    "spec": "250*25*32 GC80LV35",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020093",
+    "spec": "250*25*32 WA60K35",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050030",
+    "spec": "125*80*32 SA70J60",
+    "manufacturer": "双立",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050049",
+    "spec": "PDX175*65*65 SA70JV60",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "42",
+    "totalStock": "42",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050053",
+    "spec": "P170*16*65 SA60J6V60",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050054",
+    "spec": "200*16*65 SA60J6V60",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050002",
+    "spec": "175*80*75 SA70JV50",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050051",
+    "spec": "105*75*47.5 SA80JV60",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020099",
+    "spec": "PDA350*40*40 WA80K40M/S",
+    "manufacturer": "鲁信",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010175",
+    "spec": "200*20*65.5 A80PR 35M/S",
+    "manufacturer": "沈南",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010176",
+    "spec": "200*30*65.5 A80PR 35M/S",
+    "manufacturer": "沈南",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": "新造353130B 滚柱磨加工 1.终磨球基面 压轮 大修353130B 滚柱磨加工 1.磨球基面"
+  },
+  {
+    "partNo": "411990312",
+    "spec": "6-165*77*80-5*12 SA240JB 35M/S",
+    "manufacturer": "沈南",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010177",
+    "spec": "P220*20*65.5 A100PR 35M/S",
+    "manufacturer": "沈南",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020085",
+    "spec": "750*63*50 WA60LB35",
+    "manufacturer": "华菱",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990191",
+    "spec": "95*85*70*32 A100NBN",
+    "manufacturer": "华菱",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010171",
+    "spec": "600*180*305 A70JV60",
+    "manufacturer": "中坚",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010104",
+    "spec": "500*10*203 A80LV60 66253147365",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050038",
+    "spec": "160*80*32 SA80JV50 66253350654",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411010148",
+    "spec": "610*56*304.8 23A100J(32用)",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411020071",
+    "spec": "PDX140*8*32 WA80K8V127 66253287792",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050031",
+    "spec": "280*12*75 SA80JV50 66253187965",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050005",
+    "spec": "150*80*32 SA80JV50 69083151971",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990114",
+    "spec": "155*10*65 32A100KV60",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990244",
+    "spec": "PDX150*61*65mm SA100KV50 69083197851",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990243",
+    "spec": "P155*14.5*65mm SA100JV50 69083197853",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411050039",
+    "spec": "350*10*127 SA80J",
+    "manufacturer": "圣戈班",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411990237",
+    "spec": "金刚石砂轮 200*14*31.6",
+    "manufacturer": "",
+    "stock": "0",
+    "linkedStock": "",
+    "totalStock": "0",
+    "backupStock": "",
+    "process": ""
+  },
+  {
+    "partNo": "411040019",
+    "spec": "PDX300*12*75MA70JV60",
+    "manufacturer": "海狮",
+    "stock": "0",
+    "linkedStock": "103",
+    "totalStock": "103",
+    "backupStock": "",
+    "process": ""
+  }
+]
