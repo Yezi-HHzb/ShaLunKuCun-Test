@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>库存查询</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:#f5f7fa; display:flex; justify-content:center; align-items:center; min-height:100vh; margin:0; padding:16px; box-sizing:border-box; }
+    .card { background:#fff; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,.08); padding:24px; width:100%; max-width:400px; }
+    .title { text-align:center; font-size:18px; font-weight:700; color:#333; margin-bottom:16px; }
+    .info-row { display:flex; justify-content:space-between; align-items:center; gap:16px; padding:8px 0; border-bottom:1px solid #eee; }
+    .info-label { color:#888; font-size:14px; flex:none; }
+    .info-value { font-weight:700; font-size:16px; color:#333; text-align:right; overflow-wrap:anywhere; }
+    .stock-value { color:#d32f2f; font-size:32px; }
+    .error { color:#d32f2f; font-size:16px; font-weight:700; text-align:center; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="title">库存信息</div>
+    <div id="content"></div>
+    <div id="error" class="error" hidden></div>
+  </main>
+  <script>
+    const content = document.getElementById('content');
+    const error = document.getElementById('error');
+    const partNo = new URLSearchParams(location.search).get('partNo') || '';
+    const fields = [
+      ['厂料号', 'partNo'], ['规格型号', 'spec'], ['厂家', 'manufacturer'],
+      ['库存', 'stock', true], ['联库', 'linkedStock'], ['总库', 'totalStock'],
+      ['备货', 'backupStock'], ['工序', 'process']
+    ];
+    function showError(message) { content.replaceChildren(); error.textContent = message; error.hidden = false; }
+    function showData(item) {
+      error.hidden = true;
+      content.replaceChildren(...fields.map(([label, key, stock]) => {
+        const row = document.createElement('div'); row.className = 'info-row';
+        const name = document.createElement('span'); name.className = 'info-label'; name.textContent = label;
+        const value = document.createElement('span'); value.className = stock ? 'info-value stock-value' : 'info-value'; value.textContent = item[key] || (stock ? '0' : '-');
+        row.append(name, value); return row;
+      }));
+    }
+    if (!partNo) showError('链接缺少品号参数');
+    else fetch('data.json', { cache: 'no-store' })
+      .then(response => { if (!response.ok) throw new Error(String(response.status)); return response.json(); })
+      .then(data => { const item = data.find(row => String(row.partNo) === partNo); item ? showData(item) : showError('未找到该品号的库存信息'); })
+      .catch(() => showError('数据加载失败，请稍后重试'));
+  </script>
+</body>
+</html>
